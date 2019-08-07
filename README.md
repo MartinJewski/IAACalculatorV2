@@ -84,7 +84,7 @@ since its a correlation statistic.
 
 Cohens kappa (after Jacob Cohen 1960) interpretation:
 Interpretation of Cohen’s kappa.\
-Value of Kappa	         Level of Agreement	       % of Data that are Reliable<br/>
+Value of Kappa	         Level of Agreement	       % of Data that are Reliable
 0–.20	                       None	                         0–4%
 .21–.39	                      Minimal                        4–15%
 .40–.59	                        Weak                        15–35%
@@ -94,19 +94,39 @@ Above.90	               Almost Perfect	                82–100%
 
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Value of Kappa</th>
+    <th>Level of Agreement</th>
+    <th> % of Data that are Reliable</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>0–.20</td>
+    <td>None</td>
+    <td>0–4%</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>.21–.39	 </td>
+    <td>Minimal</td>
+    <td>4–15%</td>
+  </tr>
+  <tr>
+    <td>.40–.59	 </td>
+    <td>Weak</td>
+    <td>15–35%</td>
+  </tr>
+  <tr>
+    <td>.60–.79	 </td>
+    <td>Moderate</td>
+    <td>35–63%</td>
+  </tr>
+  <tr>
+    <td>.80–.90	 </td>
+    <td>Strong</td>
+    <td>64–81%</td>
+  </tr>
+  <tr>
+    <td>Above.90</td>
+    <td> Almost Perfect</td>
+    <td>82–100%</td>
   </tr>
 </table> 
 
