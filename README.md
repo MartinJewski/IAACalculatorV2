@@ -84,18 +84,18 @@ since its a correlation statistic.
 
 Cohens kappa (after Jacob Cohen 1960) interpretation:
 Interpretation of Cohen’s kappa.\
-Value of Kappa	         Level of Agreement	       % of Data that are Reliable
-0–.20	                       None	                         0–4%
-.21–.39	                      Minimal                        4–15%
-.40–.59	                        Weak                        15–35%
-.60–.79	                      Moderate                      35–63%
-.80–.90	                       Strong	                    64–81%
-Above.90	               Almost Perfect	                82–100%
-\
-![step1](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step1.png?raw=true)\
-![step2](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step2.png?raw=true)\
-![step3](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step3.png?raw=true)\
-![step4](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step4.png?raw=true)\
+Value of Kappa	         Level of Agreement	       % of Data that are Reliable<br/>
+0–.20	                       None	                         0–4%<br/>
+.21–.39	                      Minimal                        4–15%<br/>
+.40–.59	                        Weak                        15–35%<br/>
+.60–.79	                      Moderate                      35–63%<br/>
+.80–.90	                       Strong	                    64–81%<br/>
+Above.90	               Almost Perfect	                82–100%<br/>
+<br/>
+![step1](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step1.png?raw=true)<br/>
+![step2](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step2.png?raw=true)<br/>
+![step3](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step3.png?raw=true)<br/>
+![step4](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step4.png?raw=true)<br/>
 
 
 Creators Martin and David Machajewski.
