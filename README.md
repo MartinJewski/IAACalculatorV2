@@ -83,7 +83,7 @@ It should be mentioned that the Bennett's agreement is only for
 since its a correlation statistic.
 
 Cohens kappa (after Jacob Cohen 1960) interpretation:
-Interpretation of Cohen’s kappa.
+Interpretation of Cohen’s kappa.\
 Value of Kappa	         Level of Agreement	       % of Data that are Reliable
 0–.20	                       None	                         0–4%
 .21–.39	                      Minimal                        4–15%
@@ -92,10 +92,10 @@ Value of Kappa	         Level of Agreement	       % of Data that are Reliable
 .80–.90	                       Strong	                    64–81%
 Above.90	               Almost Perfect	                82–100%
 \
-![step1](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step1.png?raw=true)
-![step2](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step2.png?raw=true)
-![step3](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step3.png?raw=true)
-![step4](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step4.png?raw=true)
+![step1](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step1.png?raw=true)\
+![step2](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step2.png?raw=true)\
+![step3](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step3.png?raw=true)\
+![step4](https://raw.githubusercontent.com/MartinJewski/IAACalculatorV2/master/pictures/step4.png?raw=true)\
 
 
 Creators Martin and David Machajewski.
