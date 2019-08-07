@@ -75,19 +75,7 @@ The DKPro package is used to calculate the iaa scores.
 The "*" were changed to null values, via parsing, to match the needs addItem function
 inside the CodingAnnotationStudy class.
 E.g
-<table style="width:100%">
-  <tr>
-    <th>id-s10-0</th>
-    <th>Level of Agreement</th>
-    <th> sagen	Gesagt, alle Mann und Frau getan.</th>
-    <th>12345</th>
-    <th>null</th>
-    <th>null</th>
-    <th>null</th>
-    <th>null</th>
-    <th>null</th>
-  </tr>
-<table\>
+
 [id-s10-0	sagen	Gesagt, alle Mann und Frau getan.	12345	null	null	null	null	null	null	54321	null	]
 
 
