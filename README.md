@@ -84,13 +84,6 @@ since its a correlation statistic.
 
 Cohens kappa (after Jacob Cohen 1960) interpretation:
 Interpretation of Cohen’s kappa.\
-Value of Kappa	         Level of Agreement	       % of Data that are Reliable
-0–.20	                       None	                         0–4%
-.21–.39	                      Minimal                        4–15%
-.40–.59	                        Weak                        15–35%
-.60–.79	                      Moderate                      35–63%
-.80–.90	                       Strong	                    64–81%
-Above.90	               Almost Perfect	                82–100%
 
  <table style="width:100%">
   <tr>
