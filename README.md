@@ -75,6 +75,19 @@ The DKPro package is used to calculate the iaa scores.
 The "*" were changed to null values, via parsing, to match the needs addItem function
 inside the CodingAnnotationStudy class.
 E.g
+<table style="width:100%">
+  <tr>
+    <th>id-s10-0</th>
+    <th>Level of Agreement</th>
+    <th> sagen	Gesagt, alle Mann und Frau getan.</th>
+    <th>12345</th>
+    <th>null</th>
+    <th>null</th>
+    <th>null</th>
+    <th>null</th>
+    <th>null</th>
+  </tr>
+<table\>
 [id-s10-0	sagen	Gesagt, alle Mann und Frau getan.	12345	null	null	null	null	null	null	54321	null	]
 
 
@@ -85,7 +98,7 @@ since its a correlation statistic.
 Cohens kappa (after Jacob Cohen 1960) interpretation:
 Interpretation of Cohen’s kappa.\
 
- <table style="width:100%">
+<table style="width:100%">
   <tr>
     <th>Value of Kappa</th>
     <th>Level of Agreement</th>
